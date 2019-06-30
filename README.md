@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>Java Programlama Dili ile Bilet Otomasyonu</p>
 <p>Bir otobüs firması için müşteri ve sefer kayıtlarını veri tabanında tutan ve bu kayıtlarla ilgili işlemlerin gerçekleştirilmesini sağlayan yazılım.</p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*kEtiiq5a4e9-Wv7Jn0eVLg.jpeg" alt=""></p>
@@ -25,4 +20,3 @@
 <p>admin</p>
 <p>Referanslar</p>
 <p><a href="http://www.indir.com/koker-bilet-otomasyonu">indir.com</a></p>
-
